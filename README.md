@@ -27,12 +27,12 @@ Academic dishonesty is any time you purposefully make it difficult to correctly 
 
 ## Grading Outline
 
-- [ ] Hash Tables
-- [ ] Queue vs. Stack
-- [ ] Stack.add
-- [ ] Stack.remove
-- [ ] Array.first
-- [ ] Array.last
+- [2 ] Hash Tables
+- [2 ] Queue vs. Stack
+- [1 ] Stack.add
+- [1 ] Stack.remove
+- [1 ] Array.first
+- [1 ] Array.last
 
 ## Self-Grading Process
 
@@ -57,15 +57,15 @@ Each assessment contains folders that correspond to the prompts listed below. Co
 * [ ] Implement collision resolution for the working hash table in `hashTable.js`
 
 ### Data Structures
-* [ ] Describe the difference between a stack and a queue and give examples of when you might use them.
+* [2 ] Describe the difference between a stack and a queue and give examples of when you might use them.
 
 ### Stack
-* [ ] Implement a stack class.
+* [1 ] Implement a stack class.
   * You can use an array for storage, and delegate to its methods
   * The stack should only have `.add` and `.remove`, no other properties or methods (you can test this by calling Object.keys() on your stack instance).
 
 ### Instantiation Patterns
-* [ ] Extend the native `Array` class to have these useful functions:
+* [1 ] Extend the native `Array` class to have these useful functions:
   * `.first` - Returns the first element of the array
   * `.last` - Returns the last element of the array
 

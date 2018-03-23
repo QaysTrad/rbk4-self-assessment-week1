@@ -1,18 +1,9 @@
 // your code here
-var Array = function () {
-var arr = {}
-this.First = First
-this.Last = Last
 
-return arr
-}
-	
-
-var arrayMethod = {}
-arrayMethod.First = function (array) {
-	return array[0]
+Array.prototype.First = function () {
+	return this[0]
 }
 
-arrayMethod.Last = function (array) {
-	return array[array.length-1]
+Array.prototype.Last = function () {
+	return this[this.length-1]
 }

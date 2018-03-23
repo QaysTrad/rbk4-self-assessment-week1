@@ -2,7 +2,7 @@
 * [ ] Describe the difference between a stack and a queue and give examples of when you might use them.
 	
 		Stack : 
-		1 - the stack FIFO (first in first out)
+		1 - the stack LIFO (last in first out)
 		2 - it's simlier to the array , just the deffrence in the implement 
 		3 - make the values more readable for the user 
 
@@ -10,7 +10,7 @@
 		in the market when you want to pay for somthing , and there's people in front of you , so the fisrt one who's in the front of the casher he well go the first one , and the next , and the next , tell you arrive and you pay , then the stack well be empty  . 
 
 		Queue  :
-		1 - the queue FILO (fisrt in last out)
+		1 - the queue FIFO (first in first out)
 		2 - it's used in the kernal , in the cpu , when there's so many orders , the io( input , output) , when ever you use thim , they will be come up first .
 
 		example : 
